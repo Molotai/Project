@@ -1,0 +1,64 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="body">
+    <table id="table">
+        <tr>
+            <th class="title-id">Id</th>
+            <th class="title-name">Name</th>
+            <th class="title-content">Content</th>
+            <th class="title-status">Status</th>
+            <th class="title-time">Last time</th>
+        </tr>
+        <tr>
+            <td class="id" id="id">839</td>
+            <td class="name" id="name">WOG</td>
+            <td class="content-message" id="content-message"></td>
+            <td class="status" id="status"></td>
+            <td class="time" id="time"></td>
+        </tr>
+        <tr>
+            <td class="id" id="id">945</td>
+            <td class="name" id="name">WOG</td>
+            <td class="content-message" id="content-message"></td>
+            <td class="status" id="status"></td>
+            <td class="time" id="time"></td>
+        </tr>
+        <tr>
+            <td class="id" id="id">1076</td>
+            <td class="name" id="name">WOG</td>
+            <td class="content-message" id="content-message"></td>
+            <td class="status" id="status"></td>
+            <td class="time" id="time"></td>
+        </tr>
+        <tr>
+            <td class="id" id="id">1077</td>
+            <td class="name" id="name">WOG</td>
+            <td class="content-message" id="content-message"></td>
+            <td class="status" id="status"></td>
+            <td class="time" id="time"></td>
+        </tr>
+        <tr>
+            <td class="id" id="id">934</td>
+            <td class="name" id="name">WOG</td>
+            <td class="content-message" id="content-message"></td>
+            <td class="status" id="status"></td>
+            <td class="time" id="time"></td>
+        </tr>
+    </table>
+</div>
+@*<div class="container">
+        <div class="row">
+            <div class="col-6">
+                <ul id="concurrentJobs"></ul>
+            </div>
+            <div class="col-6">
+                <ul id="nonConcurrentJobs"></ul>
+            </div>
+        </div>
+</div>*@
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
