@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\FuelMonitor.csproj": {}
+    "E:\\Project\\Project\\FuelMonitor\\FuelMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\FuelMonitor.csproj": {
+    "E:\\Project\\Project\\FuelMonitor\\FuelMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\FuelMonitor.csproj",
+        "projectUniqueName": "E:\\Project\\Project\\FuelMonitor\\FuelMonitor.csproj",
         "projectName": "FuelMonitor",
-        "projectPath": "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\FuelMonitor.csproj",
+        "projectPath": "E:\\Project\\Project\\FuelMonitor\\FuelMonitor.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\obj\\",
+        "outputPath": "E:\\Project\\Project\\FuelMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBKVMFYWAQ5l57jhEMpuPLDs75dEVP/5KjTjYbYRyLNkdeFbNhKvmp4kMal7DbQCuqcEFSsK8lnGRlM+NU3sxQ==",
+  "dgSpecHash": "y1FZLWPKUO4ryk8+pbUmMdSUnm/Y1gqTIixl6rWSMd68qTgQnmfxvKsACAZWS3n1Keq0dzqAni6GPDt2KAjmMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Новая папка\\ДЗ жека\\FuelMonitor\\FuelMonitor.csproj",
+  "projectFilePath": "E:\\Project\\Project\\FuelMonitor\\FuelMonitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
